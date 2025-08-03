@@ -21,7 +21,7 @@ if not hasattr(np, 'int'):
     np.int = int
 
 # SXM opener
-#import nanonispy as nap
+import nanonispy as nap
 import scipy.linalg
 # Filtering
 from scipy.signal.windows import blackmanharris
