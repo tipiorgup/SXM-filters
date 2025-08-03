@@ -1,4 +1,4 @@
-asttokens==3.0.0
+\asttokens==3.0.0
 colorama==0.4.6
 comm==0.2.2
 contourpy==1.3.2
@@ -36,7 +36,7 @@ pure_eval==0.2.3
 Pygments==2.19.2
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
-pywin32==310
+# pywin32==310  # Removed - Windows only package
 pyzmq==27.0.0
 scikit-learn==1.7.0
 scipy==1.16.0
