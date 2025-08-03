@@ -40,7 +40,7 @@ python-dateutil==2.9.0.post0
 # pywin32==310  # Removed - Windows only package
 pyzmq==27.0.0
 scikit-learn==1.7.0
-scipy>=1.15.0,<1.16.0
+scipy>=1.8.0
 setuptools==70.2.0
 six==1.17.0
 stack-data==0.6.3
